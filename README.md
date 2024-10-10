@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amit-code99
+- 👋 Hi, I’m Amit yadav
 - 👀 I’m interested in  IT field...
 - 🌱 I’m currently learning .react and Nodejs..
 - 💞️ I’m looking to collaborate on web devlopment and software devlopment.
