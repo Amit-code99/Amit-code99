@@ -1,16 +1,23 @@
-## Hi there 👋
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Proza+Libre&color=E7F71F&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+Dev+Community!+👋🏿;+I'm+Amit+Yadav👨🏿‍💻;" /> 
+</h1> 
+<br>
 
 <!--
-**Amit-code99/Amit-code99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2  align="center" style="text-decoration: none;">Checkout My Recent Projects:</h2>
+<a href="https://marley-marl-movie-app.netlify.app">Movie App</a> <br>
 -->
+
+<br>
+<p align="left" style="font-size: 18px;">
+    🚀 Front-End Developer with a Master's degree in Computer Applications. Passionate about creating modern, responsive web applications that enhance user experiences and bring value to businesses. I work extensively with both frontend technologies, blending creativity and logic to deliver high-quality digital solutions.
+</p>
+</div>
+ <hr/>
+ 
+# 💻 My Tech Stack and Tools I Work With:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br />
+<hr />
+
