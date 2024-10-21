@@ -8,7 +8,7 @@
 <h2  align="center" style="text-decoration: none;">Checkout My Recent Projects:</h2>
 <a href="https://amit-code99.github.io/Hotels-Bill/">Hotel Bill</a> <br>
 <a href="https://amit-code99.github.io/PasswordManager/">Password Manager</a> <br>
-<a href=" ">Todo App</a> <br>
+<a href="https://amit-code99.github.io/ToDO-App/">Todo App</a> <br>
 <a href="https://amit-code99.github.io/Bubble-Game/">Bubble Game</a> <br>
 
 
