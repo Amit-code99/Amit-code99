@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Proza+Libre&color=0A66C2&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+Dev+Community!+👋;+I'm+Amit+Yadav+👨🏻‍💻;+Full+Stack+Developer+🚀;+1+Year+Experience+💼;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Proza+Libre&color=0A66C2&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+Dev+Community!+👋;I'm+Amit+Yadav;Full+Stack+Developer;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </h1>
 
 ---
@@ -16,11 +16,13 @@
 
 ## 🚀 Featured Projects
 
-[MY_PortFolio](https://amitportfolio.ameetyadav8788.workers.dev/) 
-🔗 [Hotel Bill](https://amit-code99.github.io/Hotels-Bill/)  
-🔐 [Password Manager](https://amit-code99.github.io/PasswordManager/)  
-📝 [Todo App](https://amit-code99.github.io/ToDO-App/)  
-🎮 [Bubble Game](https://amit-code99.github.io/Bubble-Game/) 
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| **Portfolio** | Personal portfolio showcasing my work and projects | React, Cloudflare Workers | [Visit](https://amitportfolio.ameetyadav8788.workers.dev/) |
+| **Hotel Bill** | Hotel billing system with calculations | HTML5, CSS3, JavaScript | [Visit](https://amit-code99.github.io/Hotels-Bill/) |
+| **Password Manager** | Secure password management tool | JavaScript, Web APIs | [Visit](https://amit-code99.github.io/PasswordManager/) |
+| **Todo App** | Task management application with persistence | React, LocalStorage | [Visit](https://amit-code99.github.io/ToDO-App/) |
+| **Bubble Game** | Interactive bubble game with scoring | JavaScript, Canvas API | [Visit](https://amit-code99.github.io/Bubble-Game/) |
 
 ---
 
@@ -31,6 +33,7 @@
 ✔️ Worked on responsive UI with optimized performance  
 ✔️ Hands-on experience with **Adobe Target & Adobe Experience tools**  
 ✔️ Exposure to **cloud deployment using Azure**  
+✔️ Strong focus on code quality, scalability, and user experience  
 
 ---
 
@@ -73,29 +76,66 @@
 
 ---
 
+## 📈 Proficiency Levels
+
+| Category | Expertise | Tools |
+|----------|-----------|-------|
+| **Frontend Development** | ⭐⭐⭐⭐⭐ | React, HTML5, CSS3, TailwindCSS, JavaScript |
+| **Backend Development** | ⭐⭐⭐⭐ | Node.js, Express.js, REST APIs, Python |
+| **Databases** | ⭐⭐⭐⭐ | MongoDB, MySQL, SQLite |
+| **Cloud & DevOps** | ⭐⭐⭐ | Azure, Cloudflare Workers, Git/GitHub |
+| **System Design** | ⭐⭐⭐ | Architecture patterns, Scalability, Performance |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-code99&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-code99&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-code99&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-code99&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Learning & Focusing On
 
-🔹 Microservices Architecture  
-🔹 System Design & Scalability  
-🔹 Cloud Deployment (Azure)  
-🔹 Advanced Backend Development  
+- 🔹 Building scalable **microservices** architecture
+- 🔹 **System design** principles & architectural patterns
+- 🔹 Cloud-native deployment strategies with **Azure**
+- 🔹 Advanced backend optimization & performance monitoring
+- 🔹 DevOps best practices & CI/CD pipelines
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-yadav-developer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit.yadav@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://amitportfolio.ameetyadav8788.workers.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit-code99)
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 💬 Let's Collaborate!
 
-💼 Open to opportunities and collaborations  
-📫 Reach me for freelance, projects, or full-time roles  
+I'm always interested in:
+- 🚀 **Full-stack development** projects
+- 💡 **Open-source** contributions
+- 📚 **Mentorship** opportunities
+- 🤝 **Interesting collaborations** and tech discussions
+
+**Feel free to reach out!** Let's build something amazing together. 🚀
 
 ---
+
+<div align="center">
 
 ⭐ *"Code. Build. Scale. Repeat."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Amit-code99&color=blueviolet)
+
+</div>
